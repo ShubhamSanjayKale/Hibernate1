@@ -1,0 +1,4 @@
+public void show()
+{
+int a=10;
+}
